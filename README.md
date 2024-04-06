@@ -1,5 +1,9 @@
 # Unity-Study-Project
 My Unity project in the learning
 
-#记录
-##20240406 第一个project 贪吃蛇
+# 工程记录
+
+## 01 Snake
+工程环境 Unity 2022.3.10f1
+
+
